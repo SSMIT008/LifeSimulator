@@ -1,0 +1,11 @@
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\LifeSimulation\bin\Debug\LifeSimulation.exe.config
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\LifeSimulation\bin\Debug\LifeSimulation.exe
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\LifeSimulation\bin\Debug\LifeSimulation.pdb
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.csproj.AssemblyReference.cache
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.Form1.resources
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.Properties.Resources.resources
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.csproj.GenerateResource.cache
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.exe
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.pdb

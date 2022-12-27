@@ -1,0 +1,8 @@
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\ConsoleLifeSimulation\bin\Debug\ConsoleLifeSimulation.exe.config
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\ConsoleLifeSimulation\bin\Debug\ConsoleLifeSimulation.exe
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\ConsoleLifeSimulation\bin\Debug\ConsoleLifeSimulation.pdb
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\ConsoleLifeSimulation\obj\Debug\ConsoleLifeSimulation.csproj.AssemblyReference.cache
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\ConsoleLifeSimulation\obj\Debug\ConsoleLifeSimulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\ConsoleLifeSimulation\obj\Debug\ConsoleLifeSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\ConsoleLifeSimulation\obj\Debug\ConsoleLifeSimulation.exe
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\LifeSimulation\LifeSimulation\ConsoleLifeSimulation\obj\Debug\ConsoleLifeSimulation.pdb
